@@ -1,0 +1,1 @@
+<template>Edit view</template>
